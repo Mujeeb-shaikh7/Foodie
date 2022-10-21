@@ -453,6 +453,7 @@ body{
         position: fixed;
         right: -100%;
         transition: all 1s ease;
+        top:0;
     }
     .scroll{
         right: 0;
